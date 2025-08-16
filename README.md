@@ -1,2 +1,9 @@
 # OOP-LAB-TASKs
-Solutions to my university OOP lab exercises (classes, inheritance, polymorphism, operator overloading, etc.).Collection of OOP practice problems and lab tasks written in C++.
+Object-Oriented Programming Lab Tasks
+This repository contains my OOP lab solutions in C++.
+Topics covered:
+- Classes & Objects
+- Constructors & Destructors
+- Inheritance
+- Polymorphism
+- Operator Overloading
